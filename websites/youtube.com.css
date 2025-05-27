@@ -11,7 +11,7 @@ ytd-app,
 .navigation-container,
 #cinematic-shorts-scrim,
 #shorts-container {
-  background-color: #00000000 !important;
+  background-color: #000000FF !important;
   background: none !important;
 }
 
@@ -29,7 +29,7 @@ tp-yt-app-drawer > #contentContainer,
 #guide-content,
 ytd-mini-guide-renderer,
 ytd-mini-guide-entry-renderer {
-  background-color: #00000000 !important;
+  background-color: #000000FF !important;
   background: none !important;
 }
 
@@ -141,7 +141,7 @@ ytd-two-column-browse-results-renderer[page-subtype="playlist"]{
 /* yt-Transparent header */
 #masthead-container {
   #background.ytd-masthead {
-    background-color: #00000000 !important;
+    background-color: #000000FF !important;
   }
 }
 
@@ -248,7 +248,7 @@ ytd-merch-shelf-renderer,
 #player-container,
 #player-full-bleed-container,
 #full-bleed-container {
-  background-color: #00000000 !important;
+  background-color: #000000FF !important;
   background: transparent !important;
 }
 
